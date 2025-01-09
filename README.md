@@ -42,6 +42,9 @@ TaskBuddy is a **ReactJS-based task management application** that helps users ef
 
 ---
 
+![TaskBuddyApp](https://github.com/user-attachments/assets/5937464d-8225-4f5b-bc26-fb3815ca574b)
+
+
 ## 🚀 How to Run the Project  
 
 1. **Clone the repository**:  
